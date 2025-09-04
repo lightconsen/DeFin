@@ -2,17 +2,31 @@
 
 * [欢迎来到DeFi时代](README.md)
 
-## Getting Started
+## 新手入门 <a href="#get-started" id="get-started"></a>
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [快速开始](get-started/quickstart.md)
+* [钱包](get-started/qian-bao.md)
+* [交易所](get-started/jiao-yi-suo.md)
+* [Publish your docs](get-started/publish-your-docs.md)
 
-## Projects
+## 类别 <a href="#category" id="category"></a>
 
-* [Compound](projects/compound.md)
-* [Aave](projects/aave.md)
-* [Morpho](projects/morpho.md)
-* [Fluid](projects/fluid.md)
+* [Dex](category/dex.md)
+* [Lending](category/lending.md)
+* [Perps](category/perps.md)
+* [L2](category/l2.md)
+* [Page](category/page.md)
+
+## EIPS
+
+* [概览](eips/gai-lan.md)
+* [ERC20](eips/erc20.md)
+* [ERC721](eips/erc721.md)
+
+## 空投 <a href="#airdrop" id="airdrop"></a>
+
+* [Linear](airdrop/linear.md)
+* [Morpho](airdrop/morpho.md)
 
 ## Basics
 
