@@ -19,7 +19,7 @@
 
 ## RWA
 
-* [Dex](rwa/dex.md)
+* [Ondo](rwa/ondo.md)
 
 ## 稳定币 <a href="#stablecoin" id="stablecoin"></a>
 
