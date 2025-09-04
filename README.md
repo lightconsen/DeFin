@@ -8,11 +8,9 @@ coverY: 0
 
 DeFi（去中心化金融）代表了效率、公平的金融服务。
 
+欢迎来到DeFin.info，希望能帮你了解DeFi，使用DeFi。
 
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
 ### Jump right in
 

@@ -7,7 +7,7 @@
 * [快速开始](get-started/quickstart.md)
 * [钱包](get-started/qian-bao.md)
 * [交易所](get-started/jiao-yi-suo.md)
-* [Publish your docs](get-started/publish-your-docs.md)
+* [区块链](get-started/publish-your-docs.md)
 
 ## 类别 <a href="#category" id="category"></a>
 
@@ -16,6 +16,14 @@
 * [Perps](category/perps.md)
 * [L2](category/l2.md)
 * [Page](category/page.md)
+
+## RWA
+
+* [Dex](rwa/dex.md)
+
+## 稳定币 <a href="#stablecoin" id="stablecoin"></a>
+
+* [Dex](stablecoin/dex.md)
 
 ## EIPS
 
@@ -27,6 +35,10 @@
 
 * [Linear](airdrop/linear.md)
 * [Morpho](airdrop/morpho.md)
+
+## 工具 <a href="#tools" id="tools"></a>
+
+* [Morpho](tools/morpho.md)
 
 ## Basics
 
