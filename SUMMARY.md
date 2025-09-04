@@ -40,6 +40,10 @@
 
 * [Morpho](tools/morpho.md)
 
+## 项目投研 <a href="#projects" id="projects"></a>
+
+* [Morpho](projects/morpho.md)
+
 ## Basics
 
 * [Editor](basics/editor.md)
