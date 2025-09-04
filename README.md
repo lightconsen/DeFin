@@ -4,7 +4,11 @@ cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 ---
 
-# Welcome
+# 欢迎来到DeFi时代
+
+DeFi（去中心化金融）代表了效率、公平的金融服务。
+
+
 
 Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
