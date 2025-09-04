@@ -8,7 +8,7 @@ coverY: 0
 
 DeFi（去中心化金融）代表了效率、公平的金融服务。
 
-欢迎来到DeFin.info，希望能帮你了解DeFi，使用DeFi。
+欢迎来到DeFin.info，这只是我自己的资料汇总。
 
 
 
