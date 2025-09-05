@@ -58,6 +58,12 @@ icon: arrow-down-triangle-square
 
 ***
 
+**f交易所**
+
+
+
+***
+
 **已退出交易所**
 
 名称：FTX\
