@@ -5,11 +5,12 @@
 ## 新手入门 <a href="#get-started" id="get-started"></a>
 
 * [快速开始](get-started/quickstart.md)
-* [钱包](get-started/qian-bao.md)
-* [交易所](get-started/jiao-yi-suo.md)
-* [区块链](get-started/publish-your-docs.md)
-* [区块链历程](get-started/qu-kuai-lian-li-cheng.md)
-* [🇨🇳 中国区块链政策](get-started/zhong-guo-qu-kuai-lian-zheng-ce.md)
+* [钱包](get-started/wallet.md)
+* [交易所](get-started/exchange.md)
+* [区块链](get-started/blockchain.md)
+* [区块链历程](get-started/history.md)
+* [🇨🇳 中国政策](get-started/china-policy.md)
+* [🇺🇸 美国监管](get-started/usa-policy.md)
 
 ## 类别 <a href="#category" id="category"></a>
 
