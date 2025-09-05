@@ -1,5 +1,5 @@
 ---
-description: 从技术极客到大众应用
+description: 从极客技术到大众应用
 icon: timeline-arrow
 ---
 
