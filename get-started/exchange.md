@@ -6,52 +6,52 @@ icon: arrow-down-triangle-square
 
 **活跃交易所**
 
-名称：[币安 (Binance)](https://accounts.binance.com/en/register?)\
+名称：[**币安 (Binance)**](https://accounts.binance.com/en/register?)\
 创始人：赵长鹏（CZ）、何一\
 时间：2017年\
 特点和背景：全球最大的加密货币交易所，产品线极其齐全，包括现货、合约、期权、理财等全品类服务。截至2025年9月，用户已突破2亿。2017年在中国成立后迅速全球化发展，但在2023年因违反美国反洗钱法规支付43亿美元罚款。
 
-名称：[Coinbase](https://login.coinbase.com/signup?)\
+名称：[**Coinbase**](https://login.coinbase.com/signup?)\
 创始人：Brian Armstrong\
 时间：2012年\
 特点和背景：美国最大合规交易所，2021年在纳斯达克直接上市（代码：COIN），是机构投资者进入加密货币市场的主要门户。以严格的合规性和用户友好的界面著称。
 
-名称：[OKX（原OKEx）](https://www.okx.com/zh-hans/account/register?)\
+名称：[**OKX（原OKEx）**](https://www.okx.com/zh-hans/account/register?)\
 创始人：徐明星\
 时间：2017年\
 特点和背景：衍生品交易强大，注重技术研发，提供丰富的交易对和理财产品。全球化布局广泛，在Web3生态领域有深入布局。
 
-名称：[火币 (Huobi/HTX)](https://www.htx.com/zh-cn/register)\
+名称：[**火币 (Huobi/HTX)**](https://www.htx.com/zh-cn/register)\
 创始人：李林（创始人）、孙宇晨（实际控制人）\
 时间：2013年\
 特点和背景：曾是中国三大交易所之一。2022年10月，About Capital宣布收购火币全球站，但孙宇晨是实际控制者，随后交易所更名为HTX。拥有深厚的用户基础和完善的生态体系。
 
-名称：[Bybit](https://www.bybit.com/en/register)\
+名称：[**Bybit**](https://www.bybit.com/en/register)\
 创始人：Ben Zhou\
 时间：2018年\
 特点和背景：以衍生品交易见长，用户体验优秀，近年现货和理财业务发展迅速。2025年2月曾遭遇严重黑客攻击，但凭借充足的准备金度过了危机。
 
-名称：[KuCoin](https://www.kucoin.com/ucenter/signup)\
+名称：[**KuCoin**](https://www.kucoin.com/ucenter/signup)\
 创始人：Michael Gan\
 时间：2017年\
 特点和背景：以"人民的交易所"自居，上线资产种类丰富，在全球用户中口碑较好。用户已突破1000万。
 
-名称：[BitMEX](https://www.bitmex.com/register)\
+名称：[**BitMEX**](https://www.bitmex.com/register)\
 创始人：Arthur Hayes\
 时间：2014年\
 特点和背景：最早推出永续合约的交易所，曾长期主导衍生品市场，口号是"赌场永不关门"。后因监管问题创始人离开，但交易所仍在运营。
 
-名称：[Bitfinex](https://www.bitfinex.com/sign-up/)\
+名称：[**Bitfinex**](https://www.bitfinex.com/sign-up/)\
 创始人：呂耀東\
 时间：2012年\
 特点和背景：老牌交易所，功能专业，因与Tether（USDT）公司关系密切而备受关注。曾经历多次安全事件但仍在运营。
 
-名称：[Poloniex](https://www.poloniex.com/zh-CN/signup)\
+名称：[**Poloniex**](https://www.poloniex.com/zh-CN/signup)\
 创始人：Tristan D'Agosta\
 时间：2014年\
 特点和背景：老牌交易所，2019年被孙宇晨收购，积极拓展全球市场并支持多种资产交易。
 
-名称：[Gate.io](https://gate.io/)（原比特儿）\
+名称：[**Gate.io**](https://gate.io/)**（原比特儿）**\
 创始人：韩林\
 时间：2013年\
 特点和背景：早期重要的山寨币交易平台，在遭遇黑客盗币后转型并重生为Gate.io，现已成为全球知名交易所。
@@ -60,61 +60,61 @@ icon: arrow-down-triangle-square
 
 **支持法币出入金的交易所**
 
-名称：Kraken\
+名称：[**Kraken**](https://www.kraken.com/zh-cn/sign-up)\
 创始人：Jesse Powell\
 时间：2011年\
 特点和背景：美国老牌合规交易所，以安全性和机构级服务著称。提供丰富的交易对和衍生品交易。支持多种法币出入金，如美元（USD）、欧元（EUR）、加元（CAD）、英镑（GBP）、瑞士法郎（CHF）、澳元（AUD）和日元（JPY）等，支持银行转账（SWIFT/SEPA/ACH）、电汇等 。
 
-名称：CEX\
+名称：[**CEX**](https://auth.cex.io/authorization/registration)\
 创始人：Oleksandr Lutskevych 等\
 时间：2013年\
 特点和背景：总部位于伦敦的合规交易所，支持多国法币，尤其在欧洲市场有良好声誉。提供现货、杠杆和借贷服务。支持美元（USD）、欧元（EUR）、英镑（GBP）、俄罗斯卢布（RUB）等，支持信用卡/借记卡、银行转账（SEPA、ACH）、电汇等。
 
-名称：NEXO\
+名称：[**NEXO**](https://platform.nexo.com/register)\
 创始人：Antoni Trenchev等\
 时间：2018年\
 特点和背景：主打加密货币借贷和生息服务的金融平台，提供即时加密货币信贷额度和高收益产品。并非传统交易所，但支持法币出入金。支持美元（USD）、欧元（EUR）等多种法币，通过银行转账（SWIFT/SEPA）等方式出入金。
 
-名称：HaskKey\
-创始人：x\
+名称：[**HashKey Exchange**](https://passport.hashkey.com/zh-CN/register?passport=hk)\
+创始人：肖风\
 时间：2018年\
-特点和背景：主打加密货币借贷和生息服务的金融平台，提供即时加密货币信贷额度和高收益产品。并非传统交易所，但支持法币出入金。支持美元（USD）、欧元（EUR）等多种法币，通过银行转账（SWIFT/SEPA）等方式出入金。
+特点和背景：香港地区一个非常关键且**持牌合规**的加密货币交易所。支持港币出入金。
 
 ***
 
 **已退出交易所**
 
-名称：FTX\
+名称：**FTX**\
 创始人：Sam Bankman-Fried（SBF）\
 时间：2019年\
 特点和背景：曾以创新产品和营销迅速崛起为顶级交易所。2022年因流动性危机和滥用用户资金（转移至关联公司Alameda Research）而破产，创始人SBF被判刑。
 
-名称：Mt. Gox（门头沟）\
+名称：**Mt. Gox（门头沟）**\
 创始人：Jed McCaleb\
 时间：2010年\
 特点和背景：早期最大的比特币交易所，处理了全球超过70%的比特币交易。2014年因被盗85万BTC而破产，是加密货币行业早期最重大的安全事件。
 
-名称：FCoin\
+名称：**FCoin**\
 创始人：张健\
 时间：2018年5月\
 特点和背景：首创"交易即挖矿"模式，上线十几天交易量就超过交易所第二名到第七名的总和。但因资金储备无法兑付用户提现（预计缺口7000-13000 BTC），于2020年2月关闭。
 
-名称：比特币中国 (BTCC)\
+名称：**比特币中国 (BTCC)**\
 创始人：李启元（Bobby Lee）\
 时间：2011年\
 特点和背景：中国第一家比特币交易所，开创了国内数字货币交易先河。在中国加强监管后关闭了交易业务。
 
-名称：云币网\
+名称：**云币网**\
 创始人：李笑来等\
 时间：2013年\
 特点和背景：曾支持以太坊等创新数字资产交易，在国内有较大影响力。后随着中国监管政策加强而关闭。
 
-名称：聚币网 (Jubi)\
+名称：**聚币网 (Jubi)**\
 创始人：张寿松\
 时间：2013年\
 特点和背景：2017年"山寨币牛市"中的龙头交易所，以上线众多暴涨"百倍币"而闻名。后转型为数字资产服务平台。
 
-名称：元宝网 (Yuanbao)\
+名称：**元宝网 (Yuanbao)**\
 创始人：邓迪\
 时间：2013年\
 特点和背景：早期知名交易所，依托元宝币（QBC）生态，曾具有较高知名度。后随着市场竞争加剧而退出。
