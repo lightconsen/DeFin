@@ -9,6 +9,7 @@
 * [交易所](get-started/jiao-yi-suo.md)
 * [区块链](get-started/publish-your-docs.md)
 * [区块链历程](get-started/qu-kuai-lian-li-cheng.md)
+* [🇨🇳 中国区块链政策](get-started/zhong-guo-qu-kuai-lian-zheng-ce.md)
 
 ## 类别 <a href="#category" id="category"></a>
 
