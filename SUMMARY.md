@@ -4,6 +4,7 @@
 
 ## 新手入门 <a href="#get-started" id="get-started"></a>
 
+* [警告](get-started/warning.md)
 * [快速开始](get-started/quickstart.md)
 * [钱包](get-started/wallet.md)
 * [交易所](get-started/exchange.md)
