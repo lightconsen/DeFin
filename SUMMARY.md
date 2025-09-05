@@ -48,6 +48,10 @@
 
 * [Morpho](projects/morpho.md)
 
+## 共识机制 <a href="#consenus" id="consenus"></a>
+
+* [BFT](consenus/bft.md)
+
 ## Basics
 
 * [Editor](basics/editor.md)
