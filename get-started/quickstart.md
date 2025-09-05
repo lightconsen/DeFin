@@ -2,22 +2,71 @@
 icon: bullseye-arrow
 ---
 
-# Quickstart
+# 快速开始
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+理解这些“规则”对于任何想要进入这个领域的人都至关重要。以下是加密货币行业的核心行事规则：
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+#### 一、核心原则：代码即法律（Code is Law）
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
-{% endhint %}
+这是最根本的规则，源于行业的去中心化基因。
 
-### Import
+* **含义**：规则由不可篡改的**智能合约代码**预先设定并自动执行，而非由中心化机构（如法院、银行、政府）的人为判断来裁决。
+* **体现**：交易是否有效、借贷何时清算、收益如何分配，全部由代码决定。
+* **后果**：
+  * **正面**：保证了公正、透明、无歧视，实现了“机器信任”。
+  * **反面**：一旦代码有漏洞被黑客利用，或者用户自己操作失误（如将币打到错误地址），**损失将无法挽回**。没有客服电话可以拨打，也没有中央机构可以冻结账户。
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+#### 二、市场规则：波动性与24/7
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+* **高波动性（High Volatility）**：加密货币市场以剧烈波动著称。价格可以在短时间内暴涨暴跌。这既是高风险，也创造了高收益的机会（“Alpha”）。
+* **7x24小时全天候运行**：全球化的去中心化市场永不休市，任何事情都可能在任何时间发生。
+* **“FOMO”与“FUD”驱动市场情绪**：
+  * **FOMO (Fear Of Missing Out)**：害怕错过上涨行情而追高买入。
+  * **FUD (Fear, Uncertainty, Doubt)**：因恐惧、不确定性和怀疑性消息而抛售。\
+    市场参与者（尤其是大户或“巨鲸”）经常利用和制造这两种情绪来获利。
 
-### Sync a repository
+#### 三、社区与文化规则：共识与模因（Meme）
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+* **共识是价值基础**：一个加密货币的价值很大程度上建立在社区对它的**共识**之上。技术、用例、叙事（Storytelling）和社区信仰共同构建了这种共识。
+* **Meme文化的力量**：起源于网络恶搞文化的“Meme币”（如狗狗币Doge、柴犬币SHIB）证明了**社区文化和娱乐性本身就能创造巨大价值**。一个有趣的梗图或故事，其传播力有时胜过复杂的技术白皮书。
+* **去中心化自治（DAO）**：许多项目通过**去中心化自治组织（DAO）** 来运作。代币持有者通过投票参与项目决策，如国库资金如何使用、协议参数如何调整等。
+
+#### 四、安全规则：不是你的钥匙，就不是你的币（Not your keys, not your coins）
+
+这是行业最重要的安全信条。
+
+* **含义**：如果你不掌握加密货币的**私钥**（通常由一长串助记词表示），那么你并不真正拥有这些资产。你将资产的托管权交给了交易所或第三方钱包服务商。
+* **实践**：
+  * **中心化交易所（CEX）**：方便交易，但存在平台被盗、跑路、被监管冻结等**托管风险**。FTX的暴雷就是最血淋淋的教训。
+  * **自托管钱包（如MetaMask, Ledger）**：自己掌控私钥，责任自负。安全性最高，但要求用户有极高的安全意识。
+
+#### 五、参与规则：自担风险（DYOR）与匿名性
+
+* **DYOR (Do Your Own Research)**：这是社区最常用的免责声明。在投资任何项目前，你必须**自己研究**其团队、技术、代经济学、社区活跃度等，并对自己的投资决策负全部责任。轻信他人推荐而蒙受损失是行业常态。
+* **匿名性与伪匿名性**：比特币等网络提供的是**伪匿名性**——交易记录公开可查，但地址背后的人的身份是隐藏的。这保护了隐私，也为非法活动提供了便利。许多新项目（如Monero, Zcash）则追求更强的匿名性。
+
+#### 六、发展规则：迭代与分叉
+
+* **快速迭代（Move Fast and Break Things）**：行业技术迭代速度极快。项目往往先推出最小可行产品（MVP），在市场中快速试错、迭代，甚至推倒重来。
+* **分叉（Fork）**：当社区对项目发展方向产生重大分歧时，可以通过“分叉”来解决问题。
+  * **软分叉**：向后兼容的升级（如比特币的SegWit）。
+  * **硬分叉**：不兼容的升级，从而分裂出一条新的区块链（如以太坊/以太经典，比特币/比特币现金）。这体现了“代码即法律”和社区治理的最终形式。
+
+#### 七、灰色地带：监管的博弈
+
+* **游走在监管边缘**：行业早期在很大程度上存在于现有法律框架之外，形成了“创新与违规并存”的局面。
+* **监管套利（Regulatory Arbitrage）**：项目和交易所通常会选择在监管友好或模糊的地区（如马耳他、新加坡、迪拜等地）运营，以规避严格地区的监管。
+* **逐步合规化**：随着行业壮大，全球监管正在收紧和明确（如美国的《GENIUS法案》、欧盟的MiCA法案）。与传统金融体系接轨、满足反洗钱（AML）和了解你的客户（KYC）要求已成为大势所趋。
+
+
+
+请牢记：
+
+1. **永远不要投入你无法承受全部损失的资金**。
+2. **深刻理解并实践“不是你的钥匙，就不是你的币”**。大额资产请用硬件钱包自托管。
+3. **DYOR**：不要轻信任何大V、项目方的承诺，独立思考。
+4. **保持学习**：这个行业日新月异，停止学习就意味着被淘汰。
+5. **谨慎操作**：每次转账前再三确认地址和信息，警惕所有链接和私信。
+
+加密货币行业是一个由技术、金融、人性和社会实验交织而成的狂野新世界。它既蕴含着重塑生产关系的革命性潜力，也充满了风险和不确定性。
+
