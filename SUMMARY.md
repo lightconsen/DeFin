@@ -18,8 +18,11 @@
 * [Dex](category/dex.md)
 * [Lending](category/lending.md)
 * [Perps](category/perps.md)
-* [L2](category/l2.md)
 * [Page](category/page.md)
+
+## L2
+
+* [Ondo](l2/ondo.md)
 
 ## RWA
 
