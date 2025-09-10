@@ -6,6 +6,7 @@
 
 * [警告](get-started/warning.md)
 * [快速开始](get-started/quickstart.md)
+* [最快开始](get-started/zui-kuai-kai-shi.md)
 * [钱包](get-started/wallet.md)
 * [交易所](get-started/exchange.md)
 * [区块链](get-started/blockchain.md)
@@ -22,7 +23,19 @@
 
 ## L2
 
-* [Ondo](l2/ondo.md)
+* [Optimistic Rollups](l2/optimistic-rollups.md)
+* [ZK-Rollups](l2/zk-rollups.md)
+
+## Liquid Restaking Protocols <a href="#lst" id="lst"></a>
+
+* [Lido](lst/lido.md)
+* [EigenLayer](lst/eigenlayer.md)
+* [EtherFi](lst/etherfi.md)
+* [Puffer](lst/puffer.md)
+
+***
+
+* [Renzo](renzo.md)
 
 ## RWA
 
@@ -30,7 +43,7 @@
 
 ## 稳定币 <a href="#stablecoin" id="stablecoin"></a>
 
-* [Dex](stablecoin/dex.md)
+* [Resolv](stablecoin/resolv.md)
 
 ## EIPS
 
@@ -50,6 +63,7 @@
 ## 项目投研 <a href="#projects" id="projects"></a>
 
 * [Morpho](projects/morpho.md)
+* [MegaETH](projects/megaeth.md)
 
 ## 共识机制 <a href="#consenus" id="consenus"></a>
 
