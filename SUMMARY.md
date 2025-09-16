@@ -19,7 +19,7 @@
 * [Dex](category/dex.md)
 * [Lending](category/lending.md)
 * [Perps](category/perps.md)
-* [Page](category/page.md)
+* [Dex Aggregator](category/dex-aggregator.md)
 
 ## L2
 
@@ -44,6 +44,11 @@
 ## 稳定币 <a href="#stablecoin" id="stablecoin"></a>
 
 * [Resolv](stablecoin/resolv.md)
+
+## ZKP
+
+* [zk-SNARKs](zkp/zk-snarks.md)
+* [zk-STARKs](zkp/zk-starks.md)
 
 ## EIPS
 
