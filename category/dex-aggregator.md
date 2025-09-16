@@ -4,7 +4,7 @@
 
 1. At least support EVM chains and Solana chain
 2. Support Swap and cross chain swap
-3. Support instant order and Limit order
+3. Support market order and limit order
 
 
 
