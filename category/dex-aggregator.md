@@ -15,6 +15,10 @@
 * [MetaMask](https://metamask.io/swaps)
 * [LI.FI](https://li.fi/)
 * [**Unizen**](https://www.unizen.io/)
+* [OpenOcean](https://app.gitbook.com/u/tJ4HhRLhQcNizfV3IQRoZIeIfXJ2)
+* [KyberSwap](https://app.gitbook.com/u/tJ4HhRLhQcNizfV3IQRoZIeIfXJ2)
+* [Odos](https://www.odos.xyz/)
+* [Defidotapp](https://defi.app/)
 
 
 
