@@ -14,6 +14,10 @@
 
 
 
+[Perps from DefiLlama](https://defillama.com/perps)
+
+
+
 HyperLiquid
 
 HotStuff BFT Consensus Chain, on chain order-create/order-cancel/settlement
