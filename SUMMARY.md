@@ -21,6 +21,9 @@
 * [Perps](category/perps.md)
 * [Dex Aggregator](category/dex-aggregator.md)
 * [Bridge](category/bridge.md)
+* [Oracle](category/oracle.md)
+* [Borrow Aggregator](category/borrow-aggregator.md)
+* [NFTs](category/nfts.md)
 
 ## L2
 
