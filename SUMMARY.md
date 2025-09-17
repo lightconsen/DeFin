@@ -20,6 +20,7 @@
 * [Lending](category/lending.md)
 * [Perps](category/perps.md)
 * [Dex Aggregator](category/dex-aggregator.md)
+* [Bridge](category/bridge.md)
 
 ## L2
 
